@@ -5,7 +5,10 @@ published: true
 splash: 'https://internetdailydeals.com/uploads/GettyImages-594832477_411045.jpg'
 title: When September ends
 tags:
+  - apples
   - bananas
+  - pears
+  - mangos
 ---
 
 
