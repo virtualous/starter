@@ -2,8 +2,8 @@
 layout: blog
 category: blog
 published: true
-splash: 'http://placehold.it/1600x500'
-title: Uwhen September ends
+splash: 'https://internetdailydeals.com/uploads/GettyImages-594832477_411045.jpg'
+title: When September ends
 tags:
   - bananas
 ---
