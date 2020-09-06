@@ -25,7 +25,7 @@ prose:
           value: ""
       - name: "splash"
         field:
-          element: "text"
+          element: "media"
           label: "Cover image"
           value: ""
       - name: "tags"
