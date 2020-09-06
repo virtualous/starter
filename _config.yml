@@ -41,9 +41,8 @@ prose:
             - name: "Pears"
               value: "pears"
             - name: "Mangos"
-              value: "mangos"
-              
-              - name: "published"
+              value: "mangos"    
+      - name: "published"
         field:
           element: "multiselect"
           label: "Published"
