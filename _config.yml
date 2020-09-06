@@ -42,6 +42,19 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
+              
+              - name: "published"
+        field:
+          element: "multiselect"
+          label: "Published"
+          placeholder: "Choose"
+          options:
+            - name: "True"
+              value: "true"
+            - name: "False"
+              value: "false"
+           
+              
     _posts/static:
       - name: "layout"
         field:
