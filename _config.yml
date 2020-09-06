@@ -50,8 +50,7 @@ prose:
           options:
             - name: "True"
               value: "true"
-            - name: "False"
-              value: "false"
+            
            
               
     _posts/static:
