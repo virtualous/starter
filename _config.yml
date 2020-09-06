@@ -10,11 +10,13 @@ prose:
     _posts:
       - name: "category"
         field:
-         
-          value: "blog"
+           element: "text"
+          label: "category"
+          value: "Tech"
       - name: "layout"
         field:
-         
+          element: "text"
+          label: "Layout"
           value: "blog"
       - name: "title"
         field:
@@ -24,8 +26,8 @@ prose:
       - name: "splash"
         field:
           element: "text"
-          label: "Splash image"
-          value: ""
+          label: "Cover image"
+          value: "https://www.mydomain.tld/image.jpg"
       - name: "tags"
         field:
           element: "multiselect"
