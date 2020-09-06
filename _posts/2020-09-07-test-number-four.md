@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: blog
-published: true
+published: false
 title: test number four
 splash: /media/sprite.png
 tags:
