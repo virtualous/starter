@@ -1,22 +1,20 @@
-baseurl: /starter/
+baseurl: /starter
 permalink: pretty
 markdown: kramdown
 prose:
   rooturl: '_posts'
-  siteurl: 'https://virtualous.github.io/starter'
-  relativeLinks: 'https://virtualous.github.io/starter'
+  siteurl: 'http://prose.github.io/starter/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
     _posts:
       - name: "category"
         field:
-           element: "text"
-          label: "category"
-          value: "Tech"
+          element: "text"
+          value: "blog"
       - name: "layout"
         field:
           element: "text"
-          label: "Layout"
           value: "blog"
       - name: "title"
         field:
@@ -27,7 +25,7 @@ prose:
         field:
           element: "text"
           label: "Cover image"
-          value: "https://www.mydomain.tld/image.jpg"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
@@ -45,7 +43,7 @@ prose:
     _posts/static:
       - name: "layout"
         field:
-         
+          element: "hidden"
           value: "page"
       - name: "title"
         field:
