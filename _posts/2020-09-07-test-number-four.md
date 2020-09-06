@@ -6,6 +6,7 @@ title: test number four
 splash: /media/sprite.png
 tags:
   - bananas
+  - pears
 ---
 ## A New Post
 ![sprite.png]({{site.baseurl}}/media/sprite.png)
