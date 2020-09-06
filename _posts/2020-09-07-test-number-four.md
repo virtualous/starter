@@ -8,6 +8,7 @@ tags:
   - bananas
   - pears
 ---
+![sprite.png]({{site.baseurl}}/media/sprite.png)
 ## A New Post
 ![sprite.png]({{site.baseurl}}/media/sprite.png)
 
