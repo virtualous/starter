@@ -11,10 +11,12 @@ prose:
       - name: "category"
         field:
           element: "text"
+          label: "Category"
           value: "blog"
       - name: "layout"
         field:
           element: "text"
+          label: "Layout "
           value: "blog"
       - name: "title"
         field:
